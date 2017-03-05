@@ -1,0 +1,45 @@
+@import     url('https://fonts.googleapis.com/css?family=Bungee+Inline|Vast+Shadow|Yellowtail');
+@import     url('https://fonts.googleapis.com/css?family=Amatic+SC|Fredericka+the+Great|Josefin+Slab|Lobster|Open+Sans+Condensed:300|Sacramento');
+
+body {
+    background-color: #12283E;
+}
+
+header {
+    background-color: black;
+}
+
+h2 {
+    color: grey;
+}
+
+figure {
+    background-color: black;
+}
+
+.container {
+    background-color: black;
+}
+
+.logo {
+    background-color: black;
+}
+
+.fullname {
+    font-family: 'Fredericka the Great', cursive;
+    color: #44443E;
+}
+
+.jobtitle {
+    font-family: 'Fredericka the Great', cursive;
+    color: #44443E;
+}
+
+.featuredtext {
+    font-family: 'lobster', cursive;
+}
+
+
+
+
+
